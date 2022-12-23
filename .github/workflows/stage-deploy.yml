@@ -27,10 +27,10 @@ jobs:
               uses: actions/setup-node@v3
               with:
                   node-version: '16'
-                  cache: yarn
+                  cache: npm
 
-            - name: Install all yarn packages
-              run: yarn --production --frozen-lockfile
+            - name: Install all npm packages
+              run: npm ci --only=production
               working-directory: bob
 
             - name: Build all

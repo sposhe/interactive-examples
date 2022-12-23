@@ -90,11 +90,11 @@ The interactive-examples project follows the same guidelines with regards to CSS
 You can validate your example anytime by running the following npm script:
 
 ```sh
-yarn run lint:css
+npm run lint:css
 ```
 
 We've also provided the following command:
 
 ```sh
-yarn run fix:css
+npm run fix:css
 ```
