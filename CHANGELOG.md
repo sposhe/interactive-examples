@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/mdn/interactive-examples/compare/v1.0.3...v1.0.4) (2022-12-30)
+
+
+### Bug Fixes
+
+* correct return type for function ([#2391](https://github.com/mdn/interactive-examples/issues/2391)) ([56ca48a](https://github.com/mdn/interactive-examples/commit/56ca48a7ea9d7ddd429e0fb678e4d1ee3d72c372))
+* **stage-deploy:** build main with local bob ([#2370](https://github.com/mdn/interactive-examples/issues/2370)) ([a418610](https://github.com/mdn/interactive-examples/commit/a41861014c4aa618ea54976b2de27557ec52b070))
+
 ## [1.0.3](https://github.com/mdn/interactive-examples/compare/v1.0.2...v1.0.3) (2022-10-07)
 
 
